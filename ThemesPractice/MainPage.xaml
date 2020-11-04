@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             BackgroundColor="{AppThemeBinding Light=White, Dark=Black}"
+             x:Class="ThemesPractice.MainPage">
+    <StackLayout  >
+        <Frame BackgroundColor="{AppThemeBinding Light='#2196F3', Dark=Pink}"
+               Padding="24" CornerRadius="0">
+            <Label  Padding="20,30" x:Name="mainText" Text="Themes Xamarin.Forms!" HorizontalTextAlignment="Center" TextColor="White" FontSize="36" />
+        </Frame>
+        <Label
+            TextColor="{AppThemeBinding Light=Black, Dark=Pink}"
+          
+            x:Name="themeText"
+            Padding="30,10,30,10" />
+        <Label
+            TextColor="{AppThemeBinding Light=Black, Dark=Pink}"
+            Text="Start developing now"
+            FontSize="Title"
+            Padding="30,10,30,10" />
+        <Label
+            TextColor="{AppThemeBinding Light=Black, Dark=Pink}"
+            Text="Make changes to your XAML file and save to see your UI update in the running app with XAML Hot Reload. Give it a try!" FontSize="16" Padding="30,0,30,0" />
+        <Label
+
+             TextColor="{AppThemeBinding Light=Black, Dark=Pink}"
+            FontSize="16" Padding="30,24,30,0">
+            <Label.FormattedText>
+                <FormattedString>
+                    <FormattedString.Spans>
+                        <Span Text="Learn more at " />
+                        <Span Text="https://aka.ms/xamarin-quickstart" FontAttributes="Bold" />
+                    </FormattedString.Spans>
+                </FormattedString>
+            </Label.FormattedText>
+        </Label>
+        <StackLayout Padding="20,20">
+             <Button
+             BackgroundColor="{AppThemeBinding Light=Gray, Dark=Pink}"
+            TextColor="{AppThemeBinding Light=Black, Dark=Black}"
+            Padding="20,20"
+             Clicked="btnChangeTheme_Clicked"
+            x:Name="btnChangeTheme"
+            Text="Change Theme"
+            />
+        </StackLayout>
+       
+    </StackLayout>
+</ContentPage>

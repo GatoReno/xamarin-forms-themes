@@ -1,0 +1,14 @@
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/bin/Debug/netstandard2.0/ThemesPractice.deps.json
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/bin/Debug/netstandard2.0/ThemesPractice.dll
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/bin/Debug/netstandard2.0/ref/ThemesPractice.dll
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/bin/Debug/netstandard2.0/ThemesPractice.pdb
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ThemesPractice.csprojAssemblyReference.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ThemesPractice.AssemblyInfoInputs.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ThemesPractice.AssemblyInfo.cs
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ThemesPractice.csproj.CoreCompileInputs.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ThemesPractice.dll
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ref/ThemesPractice.dll
+/Users/dmn/Projects/ThemesPractice/ThemesPractice/obj/Debug/netstandard2.0/ThemesPractice.pdb
