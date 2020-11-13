@@ -1,13 +1,13 @@
-﻿<Properties StartupConfiguration="{807EA6B4-1FF5-4C34-A622-8D2F61C18849}|Default">
-  <MonoDevelop.Ide.ItemProperties.ThemesPractice.Android PreferredExecutionTarget="Android.196a312c" />
+﻿<Properties StartupConfiguration="{459BEF6C-65D0-42E8-BB2A-51CA4A688757}|Default">
+  <MonoDevelop.Ide.ItemProperties.ThemesPractice.Android PreferredExecutionTarget="Android.pixel_2_pie_9_0_-_api_28" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ThemesPractice/MainPage.xaml">
     <Files>
-      <File FileName="ThemesPractice/MainPage.xaml" Line="35" Column="58" />
-      <File FileName="ThemesPractice/MainPage.xaml.cs" Line="25" Column="73" />
+      <File FileName="ThemesPractice/MainPage.xaml" Line="44" Column="32" />
+      <File FileName="ThemesPractice/MainPage.xaml.cs" />
       <File FileName="ThemesPractice/App.xaml.cs" />
       <File FileName="ThemesPractice.Android/MainActivity.cs" />
-      <File FileName="ThemesPractice.Android/Resources/values/styles.xml" Line="21" Column="4" />
-      <File FileName="ThemesPractice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" Line="34" Column="1" />
+      <File FileName="ThemesPractice.Android/Resources/values/styles.xml" />
+      <File FileName="ThemesPractice/obj/Debug/netstandard2.0/MainPage.xaml.g.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -36,5 +36,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.ThemesPractice.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8A580870-C622-4270-9BEE-515C13890B9E" />
+  <MonoDevelop.Ide.ItemProperties.ThemesPractice.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.F95FFF29-01CA-453E-9BA3-DD9BF5D51E34" />
 </Properties>
