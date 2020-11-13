@@ -463,3 +463,14 @@
 /Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/stamp/_GenerateJavaStubs.stamp
 /Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/stamp/_GeneratePackageManagerJava.stamp
 /Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/stamp/_ResolveLibraryProjectImports.stamp
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/12/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/13/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/17/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/19/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/26/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/30/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/32/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/33/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/34/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/38/jl/files.cache
+/Users/dmn/Projects/ThemesPractice/ThemesPractice.Android/obj/Debug/lp/39/jl/files.cache
